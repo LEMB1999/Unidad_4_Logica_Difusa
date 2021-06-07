@@ -9,4 +9,8 @@
 * 17130028	Patricia García Almanza
 
 
+* _Link GithubPages:_ https://maniacorp.github.io/Unidad_4_Logica_Difusa/
+
+
+
 ![brain](https://user-images.githubusercontent.com/55725996/120947937-9cd70300-c706-11eb-9788-d43ae8d01c28.jpg)
